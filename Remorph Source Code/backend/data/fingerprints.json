@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "families": [
+    {
+      "name": "faceswap_blend",
+      "features_mean": {
+        "fft_high_ratio": 0.62,
+        "ela_mean": 18.0,
+        "lap_var": 120.0,
+        "jpeg_score": 0.55
+      },
+      "sample_count": 0,
+      "last_updated": null
+    },
+    {
+      "name": "diffusion_inpaint",
+      "features_mean": {
+        "fft_high_ratio": 0.68,
+        "ela_mean": 12.0,
+        "lap_var": 160.0,
+        "jpeg_score": 0.35
+      },
+      "sample_count": 0,
+      "last_updated": null
+    },
+    {
+      "name": "stylegan_family",
+      "features_mean": {
+        "fft_high_ratio": 0.75,
+        "ela_mean": 9.5,
+        "lap_var": 180.0,
+        "jpeg_score": 0.4
+      },
+      "sample_count": 0,
+      "last_updated": null
+    }
+  ]
+}
